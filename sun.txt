@@ -1,0 +1,9 @@
+git -
+
+
+***********************************************task-1******************************************************
+
+
+
+git hub is a cloud account. where we can upload our files to show of others or to keep private.
+pwd-present working directory
